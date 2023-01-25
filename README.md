@@ -1,12 +1,16 @@
-### Hey 👋, na ihr?
+# Über mich 👋
+
+Mein Name ist **Noah** ich bin **20** Jahre alt.<br>
+<a href="https://dc.aktiverstreamer.de" target="_blank"><img src="https://discord.c99.nl/widget/theme-5/586231322993754119.png"></a>
+
+# Meine Aktuellen Projekte
+<!-- - [ ] [eynoah.de](https://eynoah.de) -->
+- [ ] [XeloGames Netzwerk](https://discord.gg/gapUTpADgb 'Joine gerne') (*Minecraft*)
+- [ ] [XeloLife.gg](https://dc.rubysocials.tk 'Joine Gerne') (*FiveM*)
+<!-- - [ ] [Mein Github](https://github.com/InvalidNoah/ "Klicke hier für mein Profil auf Gitubh") -->
 
 
-Mein Name ist **Noah** ich bin **19** Jahre alt.<br>
-- [ ] [www.eynoah.de](https://www.eynoah.de)
-- [ ] [Mein Github](https://github.com/InvalidNoah/ "Klicke hier für mein Profil auf Gitubh")
-
-Here are some ideas to get you started:
-- 🔭 Ich arbeite aktuell an [@VeranyNetwork](https://github.com/VeranyNetwork)
+- 🔭 Ich arbeite aktuell an [Luriax und RubyRP](https://twitch.tv/DeinFavStreamer)
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -37,8 +41,13 @@ public class Noah {
 # Skills
 **Java:**
 - [x] Spigot/BungeeAPI
+- [x] MySQL
 - [ ] Discord/JDA
-- [ ] MySQL
+
+**PHP:**
+- [x] Web basierte Sachen
+- [ ] Panels
+
 
 **HTML:**
 - [ ] Style/CSS
