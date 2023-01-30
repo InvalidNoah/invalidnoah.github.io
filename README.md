@@ -32,7 +32,7 @@ public class Noah {
 
     public Noah(){
         this.name = "Noah";
-        this.age = 19;
+        this.age = 20;
         this.city = "Vienna";
         this.favoritegame = "Minecraft";
     }
@@ -47,6 +47,10 @@ public class Noah {
 **PHP:**
 - [x] Web basierte Sachen
 - [ ] Panels
+
+**Python:**
+- [ ] Basic
+- [ ] Bots
 
 
 **HTML:**
